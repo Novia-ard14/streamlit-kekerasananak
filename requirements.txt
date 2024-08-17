@@ -1,6 +1,5 @@
 numpy==1.26.4
 pandas==2.2.2
-python==3.12.4.final.0
 pytz==2024.1
 setuptools==69.5.1
 pytest==7.4.4
