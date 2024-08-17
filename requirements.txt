@@ -1,5 +1,9 @@
 numpy==1.26.4
 pandas==2.2.2
+pytz==2024.1
+dateutil==2.9.0.post0
+setuptools==69.5.1
+pytest==7.4.4
 streamlit
 scikit-learn
 pip==24.0
