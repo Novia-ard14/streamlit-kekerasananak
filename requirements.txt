@@ -6,4 +6,5 @@ pytest==7.4.4
 streamlit
 scikit-learn
 pip==24.2
+seaborn
 matplotlib
