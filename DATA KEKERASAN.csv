@@ -1,0 +1,380 @@
+Provinsi,Kabupaten_Kota,Kelompok_Usia,Jenis_kelamin,Bentuk_Kekerasan,Tingkat_Pendidikan_Korban,Tempat_Kejadian,Status_Hubungan,Jumlah_Korban,Kategori_Jumlah_Korban,Kategori_Tingkat_Kekerasan,Tahun
+Jawa Barat,Bogor,6-12 tahun,laki-laki,fisik,tidak sekolah,fasilitas umum,orang tua,35,Tinggi,ZONA MERAH,2017
+Jawa Barat,Sukabumi,13-17 tahun,laki-laki,fisik,sd,rumah,guru,167,Tinggi,ZONA MERAH,2017
+Jawa Barat,Bogor,0-5 tahun,perempuan,penelantaran,tidak sekolah,fasilitas umum,orang lain,45,Tinggi,ZONA MERAH,2017
+Jawa Barat,Sukabumi,13-17 tahun,perempuan,fisik,sd,rumah,teman,170,Tinggi,ZONA MERAH,2017
+Jawa Barat,Cianjur,6-12 tahun,perempuan,fisik,tidak sekolah,fasilitas umum,orang lain,10,Rendah,ZONA HIJAU,2017
+Jawa Barat,Bandung,13-17 tahun,perempuan,seksual,sd,sekolah,teman,145,Tinggi,ZONA MERAH,2017
+Jawa Barat,Garut,13-17 tahun,perempuan,seksual,sd,sekolah,guru,18,Rendah,ZONA HIJAU,2017
+Jawa Barat,Cianjur,6-12 tahun,laki-laki,psikis,sd,fasilitas umum,orang lain,5,Rendah,ZONA HIJAU,2017
+Jawa Barat,Bandung,6-12 tahun,laki-laki,seksual,sltp,sekolah,teman,175,Tinggi,ZONA MERAH,2017
+Jawa Barat,Garut,0-5 tahun,laki-laki,psikis,tidak sekolah,sekolah,teman,20,Rendah,ZONA HIJAU,2017
+Jawa Barat,Tasikmalaya,13-17 tahun,perempuan,seksual,tidak sekolah,rumah,orang tua,74,Tinggi,ZONA MERAH,2017
+Jawa Barat,Ciamis,13-17 tahun,perempuan,seksual,slta,fasilitas umum,orang lain,20,Rendah,ZONA MERAH,2017
+Jawa Barat,Tasikmalaya,13-17 tahun,laki-laki,seksual,tidak sekolah,rumah,orang tua,78,Tinggi,ZONA MERAH,2017
+Jawa Barat,Ciamis,13-17 tahun,laki-laki,fisik,tidak sekolah,fasilitas umum,orang lain,22,Rendah,ZONA HIJAU,2017
+Jawa Barat,Kuningan,0-5 tahun,laki-laki,seksual,sltp,sekolah,guru,22,Tinggi,ZONA MERAH,2017
+Jawa Barat,Cirebon,13-17 tahun,laki-laki,seksual,sltp,sekolah,orang lain,133,Tinggi,ZONA HIJAU,2017
+Jawa Barat,Majalengka,0-5 tahun,laki-laki,fisik,sltp,rumah,orang tua,24,Tinggi,ZONA MERAH,2017
+Jawa Barat,Kuningan,6-12 tahun,perempuan,seksual,sd,sekolah,teman,22,Tinggi,ZONA MERAH,2017
+Jawa Barat,Cirebon,13-17 tahun,perempuan,seksual,sltp,sekolah,guru,121,Tinggi,ZONA MERAH,2017
+Jawa Barat,Majalengka,13-17 tahun,perempuan,seksual,sltp,rumah,orang tua,27,Tinggi,ZONA MERAH,2017
+Jawa Barat,Sumedang,6-12 tahun,laki-laki,fisik,sd,sekolah,orang lain,25,Tinggi,ZONA MERAH,2017
+Jawa Barat,Sumedang,13-17 tahun,perempuan,seksual,tidak sekolah,sekolah,teman,30,Tinggi,ZONA MERAH,2017
+Jawa Barat,Indramayu,0-5 tahun,laki-laki,psikis,sd,fasilitas umum,orang lain,46,Tinggi,ZONA MERAH,2017
+Jawa Barat,Indramayu,6-12 tahun,perempuan,penelantaran,slta,fasilitas umum,guru,50,Tinggi,ZONA MERAH,2017
+Jawa Barat,Subang,6-12 tahun,laki-laki,fisik,sd,sekolah,guru,20,Rendah,ZONA HIJAU,2017
+Jawa Barat,Purwakarta,6-12 tahun,laki-laki,seksual,slta,fasilitas umum,teman,36,Tinggi,ZONA MERAH,2017
+Jawa Barat,Karawang,6-12 tahun,laki-laki,seksual,sd,fasilitas umum,orang lain,27,Tinggi,ZONA MERAH,2017
+Jawa Barat,Subang,13-17 tahun,perempuan,seksual,slta,sekolah,guru,16,Rendah,ZONA HIJAU,2017
+Jawa Barat,Purwakarta,0-5 tahun,perempuan,fisik,sd,fasilitas umum,orang lain,36,Tinggi,ZONA MERAH,2017
+Jawa Barat,Karawang,6-12 tahun,perempuan,penelantaran,slta,fasilitas umum,orang tua,30,Tinggi,ZONA MERAH,2017
+Jawa Barat,Bekasi,13-17 tahun,perempuan,fisik,sltp,rumah,orang tua,203,Tinggi,ZONA MERAH,2017
+Jawa Barat,Bandung Barat,13-17 tahun,perempuan,penelantaran,sd,rumah,kerabat/keluarga,51,Tinggi,ZONA MERAH,2017
+Jawa Barat,Bekasi,0-5 tahun,laki-laki,seksual,sd,rumah,kerabat/keluarga,215,Tinggi,ZONA MERAH,2017
+Jawa Barat,Bandung Barat,0-5 tahun,laki-laki,penelantaran,sd,rumah,orang tua,51,Tinggi,ZONA MERAH,2017
+Jawa Barat,Pangandaran,6-12 tahun,laki-laki,seksual,tidak sekolah,fasilitas umum,orang tua,40,Tinggi,ZONA MERAH,2017
+Jawa Barat,Kota Bogor,13-17 tahun,laki-laki,seksual,sltp,rumah,kerabat/keluarga,70,Tinggi,ZONA MERAH,2017
+Jawa Barat,Kota Sukabumi,6-12 tahun,laki-laki,fisik,sd,rumah,kerabat/keluarga,41,Tinggi,ZONA MERAH,2017
+Jawa Barat,Kota Bandung,0-5 tahun,laki-laki,psikis,sd,rumah,orang tua,268,Tinggi,ZONA MERAH,2017
+Jawa Barat,Pangandaran,6-12 tahun,perempuan,seksual,sd,fasilitas umum,teman,45,Tinggi,ZONA MERAH,2017
+Jawa Barat,Kota Bogor,13-17 tahun,perempuan,seksual,sd,rumah,orang tua,60,Tinggi,ZONA MERAH,2017
+Jawa Barat,Kota Cirebon,0-5 tahun,laki-laki,psikis,sd,rumah,orang tua,29,Tinggi,ZONA MERAH,2017
+Jawa Barat,Kota Cirebon,13-17 tahun,perempuan,seksual,tidak sekolah,rumah,kerabat/keluarga,41,Tinggi,ZONA MERAH,2017
+Jawa Barat,Kota Bekasi,0-5 tahun,perempuan,penelantaran,slta,rumah,kerabat/keluarga,100,Tinggi,ZONA MERAH,2017
+Jawa Barat,Kota Depok,13-17 tahun,perempuan,penelantaran,slta,sekolah,orang tua,141,Tinggi,ZONA MERAH,2017
+Jawa Barat,Kota Cimahi,6-12 tahun,perempuan,penelantaran,sd,rumah,orang tua,22,Tinggi,ZONA MERAH,2017
+Jawa Barat,Kota Tasikmalaya,13-17 tahun,perempuan,seksual,sd,rumah,kerabat/keluarga,8,Rendah,ZONA HIJAU,2017
+Jawa Barat,Kota Banjar,13-17 tahun,perempuan,seksual,sltp,fasilitas umum,guru,25,Tinggi,ZONA MERAH,2017
+Jawa Barat,Kota Bekasi,0-5 tahun,laki-laki,psikis,sd,rumah,kerabat/keluarga,97,Tinggi,ZONA MERAH,2017
+Jawa Barat,Kota Depok,6-12 tahun,laki-laki,seksual,sd,sekolah,teman,141,Tinggi,ZONA MERAH,2017
+Jawa Barat,Kota Cimahi,0-5 tahun,laki-laki,seksual,sltp,rumah,kerabat/keluarga,22,Tinggi,ZONA MERAH,2017
+Jawa Barat,Kota Tasikmalaya,13-17 tahun,laki-laki,fisik,sltp,rumah,orang tua,18,Rendah,ZONA HIJAU,2017
+Jawa Barat,Kota Banjar,13-17 tahun,laki-laki,fisik,sltp,fasilitas umum,guru,25,Tinggi,ZONA MERAH,2017
+Jawa Barat,Bogor,13-17 tahun,perempuan,penelantaran,sltp,rumah,kerabat/keluarga,35,Tinggi,ZONA MERAH,2018
+Jawa Barat,Sukabumi,13-17 tahun,perempuan,seksual,sd,fasilitas umum,kerabat/keluarga,167,Tinggi,ZONA MERAH,2018
+Jawa Barat,Cianjur,13-17 tahun,perempuan,seksual,sd,rumah,orang tua,15,Rendah,ZONA HIJAU,2018
+Jawa Barat,Bandung,6-12 tahun,perempuan,seksual,sd,rumah,orang tua,145,Tinggi,ZONA MERAH,2018
+Jawa Barat,Garut,13-17 tahun,perempuan,psikis,sltp,rumah,orang tua,18,Rendah,ZONA HIJAU,2018
+Jawa Barat,Tasikmalaya,13-17 tahun,perempuan,seksual,tidak sekolah,fasilitas umum,orang lain,74,Tinggi,ZONA MERAH,2018
+Jawa Barat,Ciamis,6-12 tahun,perempuan,psikis,tidak sekolah,rumah,kerabat/keluarga,20,Rendah,ZONA HIJAU,2018
+Jawa Barat,Kuningan,13-17 tahun,perempuan,seksual,sd,sekolah,teman,22,Tinggi,ZONA MERAH,2018
+Jawa Barat,Cirebon,6-12 tahun,perempuan,seksual,sd,rumah,orang tua,121,Tinggi,ZONA MERAH,2018
+Jawa Barat,Majalengka,13-17 tahun,perempuan,seksual,sltp,rumah,orang tua,24,Tinggi,ZONA MERAH,2018
+Jawa Barat,Bogor,0-5 tahun,laki-laki,psikis,tidak sekolah,rumah,kerabat/keluarga,35,Tinggi,ZONA MERAH,2018
+Jawa Barat,Sukabumi,6-12 tahun,laki-laki,seksual,sd,fasilitas umum,guru,176,Tinggi,ZONA MERAH,2018
+Jawa Barat,Sumedang,13-17 tahun,perempuan,fisik,tidak sekolah,sekolah,guru,25,Tinggi,ZONA MERAH,2018
+Jawa Barat,Cianjur,6-12 tahun,laki-laki,seksual,sd,rumah,kerabat/keluarga,5,Rendah,ZONA HIJAU,2018
+Jawa Barat,Bandung,13-17 tahun,laki-laki,psikis,sltp,rumah,orang tua,145,Tinggi,ZONA MERAH,2018
+Jawa Barat,Indramayu,13-17 tahun,perempuan,seksual,sltp,rumah,orang tua,46,Tinggi,ZONA MERAH,2018
+Jawa Barat,Subang,13-17 tahun,perempuan,seksual,sltp,rumah,kerabat/keluarga,16,Rendah,ZONA HIJAU,2018
+Jawa Barat,Purwakarta,13-17 tahun,perempuan,seksual,slta,rumah,orang tua,36,Tinggi,ZONA MERAH,2018
+Jawa Barat,Karawang,13-17 tahun,perempuan,seksual,sltp,rumah,kerabat/keluarga,27,Tinggi,ZONA MERAH,2018
+Jawa Barat,Bekasi,6-12 tahun,perempuan,seksual,tidak sekolah,rumah,kerabat/keluarga,203,Tinggi,ZONA MERAH,2018
+Jawa Barat,Garut,6-12 tahun,laki-laki,psikis,tidak sekolah,rumah,orang tua,18,Rendah,ZONA HIJAU,2018
+Jawa Barat,Tasikmalaya,6-12 tahun,laki-laki,seksual,tidak sekolah,fasilitas umum,orang lain,74,Tinggi,ZONA MERAH,2018
+Jawa Barat,Ciamis,0-5 tahun,laki-laki,seksual,tidak sekolah,rumah,orang lain,20,Rendah,ZONA HIJAU,2018
+Jawa Barat,Bandung Barat,6-12 tahun,perempuan,seksual,sd,rumah,teman,51,Tinggi,ZONA MERAH,2018
+Jawa Barat,Pangandaran,6-12 tahun,perempuan,seksual,sd,fasilitas umum,orang lain,40,Tinggi,ZONA MERAH,2018
+Jawa Barat,Ciamis,0-5 tahun,laki-laki,seksual,tidak sekolah,rumah,kerabat/keluarga,20,Rendah,ZONA HIJAU,2018
+Jawa Barat,Kota Bogor,6-12 tahun,perempuan,seksual,sd,rumah,kerabat/keluarga,60,Tinggi,ZONA MERAH,2018
+Jawa Barat,Kota Sukabumi,13-17 tahun,perempuan,seksual,sltp,rumah,orang tua,41,Tinggi,ZONA MERAH,2018
+Jawa Barat,Kuningan,13-17 tahun,laki-laki,seksual,sltp,sekolah,guru,22,Tinggi,ZONA MERAH,2018
+Jawa Barat,Cirebon,0-5 tahun,laki-laki,fisik,sltp,rumah,orang lain,121,Tinggi,ZONA MERAH,2018
+Jawa Barat,Majalengka,13-17 tahun,laki-laki,fisik,sltp,rumah,orang lain,24,Tinggi,ZONA MERAH,2018
+Jawa Barat,Sumedang,13-17 tahun,laki-laki,fisik,sd,sekolah,teman,25,Tinggi,ZONA MERAH,2018
+Jawa Barat,Kota Bandung,13-17 tahun,perempuan,seksual,slta,rumah,kerabat/keluarga,268,Tinggi,ZONA MERAH,2018
+Jawa Barat,Kota Cirebon,0-5 tahun,perempuan,fisik,tidak sekolah,rumah,kerabat/keluarga,29,Tinggi,ZONA MERAH,2018
+Jawa Barat,Kota Bekasi,13-17 tahun,perempuan,seksual,tidak sekolah,rumah,orang tua,97,Tinggi,ZONA MERAH,2018
+Jawa Barat,Sumedang,13-17 tahun,laki-laki,fisik,sd,sekolah,guru,25,Tinggi,ZONA MERAH,2018
+Jawa Barat,Indramayu,6-12 tahun,laki-laki,fisik,sd,rumah,orang lain,46,Tinggi,ZONA MERAH,2018
+Jawa Barat,Subang,13-17 tahun,laki-laki,seksual,sd,rumah,teman,16,Rendah,ZONA HIJAU,2018
+Jawa Barat,Purwakarta,13-17 tahun,laki-laki,psikis,slta,rumah,kerabat/keluarga,36,Tinggi,ZONA MERAH,2018
+Jawa Barat,Karawang,13-17 tahun,laki-laki,psikis,sd,rumah,orang tua,27,Tinggi,ZONA MERAH,2018
+Jawa Barat,Bekasi,6-12 tahun,laki-laki,fisik,sd,rumah,kerabat/keluarga,203,Tinggi,ZONA MERAH,2018
+Jawa Barat,Bandung Barat,6-12 tahun,laki-laki,seksual,sd,rumah,orang tua,51,Tinggi,ZONA MERAH,2018
+Jawa Barat,Pangandaran,0-5 tahun,laki-laki,fisik,tidak sekolah,fasilitas umum,kerabat/keluarga,40,Tinggi,ZONA MERAH,2018
+Jawa Barat,Kota Depok,6-12 tahun,perempuan,seksual,sd,sekolah,teman,141,Tinggi,ZONA MERAH,2018
+Jawa Barat,Kota Cimahi,6-12 tahun,perempuan,seksual,sd,rumah,orang tua,22,Tinggi,ZONA MERAH,2018
+Jawa Barat,Kota Tasikmalaya,6-12 tahun,perempuan,seksual,sltp,rumah,kerabat/keluarga,8,Rendah,ZONA HIJAU,2018
+Jawa Barat,Kota Banjar,13-17 tahun,perempuan,seksual,sltp,fasilitas umum,teman,25,Tinggi,ZONA MERAH,2018
+Jawa Barat,Kota Bogor,6-12 tahun,laki-laki,psikis,sltp,rumah,orang tua,60,Tinggi,ZONA MERAH,2018
+Jawa Barat,Kota Sukabumi,6-12 tahun,laki-laki,penelantaran,sd,rumah,orang tua,41,Tinggi,ZONA MERAH,2018
+Jawa Barat,Kota Bandung,6-12 tahun,laki-laki,psikis,sd,rumah,orang tua,268,Tinggi,ZONA MERAH,2018
+Jawa Barat,Kota Cirebon,6-12 tahun,laki-laki,seksual,sd,rumah,kerabat/keluarga,29,Tinggi,ZONA MERAH,2018
+Jawa Barat,Kota Bekasi,6-12 tahun,laki-laki,fisik,sd,rumah,teman,97,Tinggi,ZONA MERAH,2018
+Jawa Barat,Kota Depok,13-17 tahun,laki-laki,fisik,sd,sekolah,teman,141,Tinggi,ZONA MERAH,2018
+Jawa Barat,Kota Cimahi,6-12 tahun,laki-laki,fisik,sltp,rumah,teman,22,Tinggi,ZONA MERAH,2018
+Jawa Barat,Kota Tasikmalaya,6-12 tahun,laki-laki,psikis,sltp,rumah,teman,10,Rendah,ZONA HIJAU,2018
+Jawa Barat,Kota Banjar,13-17 tahun,laki-laki,fisik,sltp,fasilitas umum,teman,25,Tinggi,ZONA MERAH,2018
+Jawa Barat,Bogor,13-17 tahun,perempuan,seksual,tidak sekolah,rumah,kerabat/keluarga,40,Tinggi,ZONA MERAH,2019
+Jawa Barat,Sukabumi,13-17 tahun,perempuan,seksual,tidak sekolah,fasilitas umum,guru,139,Tinggi,ZONA MERAH,2019
+Jawa Barat,Cianjur,13-17 tahun,perempuan,seksual,sltp,rumah,orang tua,68,Tinggi,ZONA MERAH,2019
+Jawa Barat,Bandung,13-17 tahun,perempuan,seksual,sltp,rumah,orang tua,169,Tinggi,ZONA MERAH,2019
+Jawa Barat,Garut,13-17 tahun,perempuan,seksual,sd,rumah,kerabat/keluarga,20,Rendah,ZONA HIJAU,2019
+Jawa Barat,Tasikmalaya,13-17 tahun,perempuan,seksual,sltp,sekolah,guru,130,Tinggi,ZONA MERAH,2019
+Jawa Barat,Bogor,0-5 tahun,laki-laki,penelantaran,tidak sekolah,rumah,orang lain,40,Tinggi,ZONA MERAH,2019
+Jawa Barat,Sukabumi,13-17 tahun,laki-laki,seksual,slta,sekolah,guru,139,Tinggi,ZONA MERAH,2019
+Jawa Barat,Ciamis,13-17 tahun,perempuan,seksual,sltp,rumah,kerabat/keluarga,11,Rendah,ZONA HIJAU,2019
+Jawa Barat,Kuningan,0-5 tahun,perempuan,fisik,tidak sekolah,rumah,orang,38,Tinggi,ZONA MERAH,2019
+Jawa Barat,Cianjur,0-5 tahun,laki-laki,psikis,tidak sekolah,sekolah,teman,68,Tinggi,ZONA MERAH,2019
+Jawa Barat,Bandung,13-17 tahun,laki-laki,penelantaran,sltp,rumah,kerabat/keluarga,169,Tinggi,ZONA MERAH,2019
+Jawa Barat,Garut,13-17 tahun,laki-laki,psikis,slta,rumah,kerabat/keluarga,20,Rendah,ZONA HIJAU,2019
+Jawa Barat,Tasikmalaya,6-12 tahun,laki-laki,psikis,sd,rumah,orang tua,130,Tinggi,ZONA MERAH,2019
+Jawa Barat,Cirebon,13-17 tahun,perempuan,fisik,sltp,rumah,guru,95,Tinggi,ZONA MERAH,2019
+Jawa Barat,Majalengka,13-17 tahun,perempuan,seksual,sltp,rumah,orang lain,6,Rendah,ZONA HIJAU,2019
+Jawa Barat,Sumedang,6-12 tahun,perempuan,seksual,tidak sekolah,rumah,teman,18,Rendah,ZONA HIJAU,2019
+Jawa Barat,Indramayu,13-17 tahun,perempuan,fisik,sd,rumah,kerabat/keluarga,39,Tinggi,ZONA MERAH,2019
+Jawa Barat,Subang,13-17 tahun,perempuan,seksual,slta,rumah,orang tua,13,Rendah,ZONA HIJAU,2019
+Jawa Barat,Ciamis,13-17 tahun,laki-laki,fisik,sd,rumah,kerabat/keluarga,11,Rendah,ZONA HIJAU,2019
+Jawa Barat,Kuningan,13-17 tahun,laki-laki,fisik,sltp,rumah,orang tua,38,Tinggi,ZONA MERAH,2019
+Jawa Barat,Purwakarta,13-17 tahun,perempuan,seksual,tidak sekolah,rumah,kerabat/keluarga,53,Tinggi,ZONA MERAH,2019
+Jawa Barat,Karawang,0-5 tahun,perempuan,seksual,tidak sekolah,rumah,teman,115,Tinggi,ZONA MERAH,2019
+Jawa Barat,Cirebon,6-12 tahun,laki-laki,fisik,sd,rumah,orang tua,95,Tinggi,ZONA MERAH,2019
+Jawa Barat,Majalengka,13-17 tahun,laki-laki,seksual,sltp,rumah,kerabat/keluarga,8,Rendah,ZONA HIJAU,2019
+Jawa Barat,Sumedang,13-17 tahun,laki-laki,penelantaran,sltp,fasilitas umum,teman,18,Rendah,ZONA HIJAU,2019
+Jawa Barat,Indramayu,6-12 tahun,laki-laki,fisik,slta,rumah,orang tua,39,Tinggi,ZONA MERAH,2019
+Jawa Barat,Subang,6-12 tahun,laki-laki,seksual,sd,rumah,orang tua,13,Rendah,ZONA HIJAU,2019
+Jawa Barat,Bekasi,13-17 tahun,perempuan,psikis,sd,rumah,orang tua,176,Tinggi,ZONA MERAH,2019
+Jawa Barat,Bandung Barat,13-17 tahun,perempuan,psikis,sltp,rumah,kerabat/keluarga,52,Tinggi,ZONA MERAH,2019
+Jawa Barat,Pangandaran,13-17 tahun,perempuan,fisik,sltp,rumah,orang tua,24,Tinggi,ZONA MERAH,2019
+Jawa Barat,Purwakarta,13-17 tahun,laki-laki,fisik,slta,rumah,orang tua,53,Tinggi,ZONA MERAH,2019
+Jawa Barat,Karawang,0-5 tahun,laki-laki,fisik,tidak sekolah,rumah,orang tua,118,Tinggi,ZONA MERAH,2019
+Jawa Barat,Bekasi,6-12 tahun,laki-laki,fisik,sd,rumah,kerabat/keluarga,176,Tinggi,ZONA MERAH,2019
+Jawa Barat,Bandung Barat,6-12 tahun,laki-laki,seksual,sd,rumah,kerabat/keluarga,52,Tinggi,ZONA MERAH,2019
+Jawa Barat,Pangandaran,6-12 tahun,laki-laki,fisik,sd,rumah,kerabat/keluarga,24,Tinggi,ZONA MERAH,2019
+Jawa Barat,Kota Bogor,6-12 tahun,perempuan,seksual,tidak sekolah,rumah,orang tua,120,Tinggi,ZONA MERAH,2019
+Jawa Barat,Kota Sukabumi,13-17 tahun,perempuan,seksual,slta,rumah,teman,45,Tinggi,ZONA MERAH,2019
+Jawa Barat,Kota Bogor,13-17 tahun,laki-laki,psikis,sltp,rumah,teman,135,Tinggi,ZONA MERAH,2019
+Jawa Barat,Kota Sukabumi,0-5 tahun,laki-laki,psikis,tidak sekolah,rumah,kerabat/keluarga,45,Tinggi,ZONA MERAH,2019
+Jawa Barat,Kota Bandung,6-12 tahun,laki-laki,seksual,sd,rumah,kerabat/keluarga,423,Tinggi,ZONA MERAH,2019
+Jawa Barat,Kota Bandung,13-17 tahun,perempuan,seksual,slta,rumah,orang tua,432,Tinggi,ZONA MERAH,2019
+Jawa Barat,Kota Cirebon,13-17 tahun,perempuan,seksual,sd,rumah,orang tua,5,Rendah,ZONA HIJAU,2019
+Jawa Barat,Kota Bekasi,6-12 tahun,perempuan,seksual,sd,rumah,teman,10,Rendah,ZONA HIJAU,2019
+Jawa Barat,Kota Depok,6-12 tahun,perempuan,psikis,tidak sekolah,rumah,kerabat/keluarga,150,Tinggi,ZONA MERAH,2019
+Jawa Barat,Kota Cimahi,13-17 tahun,perempuan,psikis,slta,rumah,orang tua,41,Tinggi,ZONA MERAH,2019
+Jawa Barat,Kota Tasikmalaya,0-5 tahun,perempuan,seksual,slta,rumah,orang lain,3,Rendah,ZONA MERAH,2019
+Jawa Barat,Kota Banjar,0-5 tahun,perempuan,psikis,tidak sekolah,rumah,orang lain,1,Rendah,ZONA HIJAU,2019
+Jawa Barat,Kota Cirebon,6-12 tahun,laki-laki,seksual,sd,rumah,kerabat/keluarga,3,Rendah,ZONA HIJAU,2019
+Jawa Barat,Kota Bekasi,0-5 tahun,laki-laki,seksual,tidak sekolah,rumah,orang lain,7,Rendah,ZONA HIJAU,2019
+Jawa Barat,Kota Depok,13-17 tahun,laki-laki,fisik,sltp,rumah,orang tua,150,Tinggi,ZONA MERAH,2019
+Jawa Barat,Kota Cimahi,6-12 tahun,laki-laki,penelantaran,sd,rumah,kerabat/keluarga,41,Tinggi,ZONA MERAH,2019
+Jawa Barat,Kota Tasikmalaya,6-12 tahun,laki-laki,fisik,sltp,rumah,teman,5,Rendah,ZONA HIJAU,2019
+Jawa Barat,Kota Banjar,0-5 tahun,laki-laki,fisik,tidak sekolah,rumah,orang lain,2,Rendah,ZONA HIJAU,2019
+Jawa Barat,Bogor,13-17 tahun,perempuan,penelantaran,slta,rumah,orang tua,90,Tinggi,ZONA MERAH,2020
+Jawa Barat,Bogor,13-17 tahun,laki-laki,psikis,sd,rumah,kerabat/keluarga,100,Tinggi,ZONA MERAH,2020
+Jawa Barat,Sukabumi,13-17 tahun,laki-laki,psikis,sltp,fasilitas umum,orang lain,271,Tinggi,ZONA MERAH,2020
+Jawa Barat,Sukabumi,13-17 tahun,perempuan,psikis,sd,fasilitas umum,orang lain,217,Tinggi,ZONA MERAH,2020
+Jawa Barat,Cianjur,13-17 tahun,perempuan,fisik,sltp,rumah,orang tua,133,Tinggi,ZONA MERAH,2020
+Jawa Barat,Bandung,6-12 tahun,perempuan,fisik,tidak sekolah,rumah,kerabat/keluarga,108,Tinggi,ZONA MERAH,2020
+Jawa Barat,Garut,13-17 tahun,perempuan,seksual,tidak sekolah,rumah,orang tua,100,Tinggi,ZONA MERAH,2020
+Jawa Barat,Tasikmalaya,13-17 tahun,perempuan,psikis,sd,fasilitas umum,guru,151,Tinggi,ZONA MERAH,2020
+Jawa Barat,Cianjur,0-5 tahun,laki-laki,seksual,tidak sekolah,rumah,orang lain,133,Tinggi,ZONA MERAH,2020
+Jawa Barat,Ciamis,13-17 tahun,perempuan,seksual,tidak sekolah,rumah,orang tua,18,Rendah,ZONA HIJAU,2020
+Jawa Barat,Bandung,6-12 tahun,laki-laki,fisik,sltp,rumah,kerabat/keluarga,108,Tinggi,ZONA MERAH,2020
+Jawa Barat,Kuningan,6-12 tahun,perempuan,seksual,sd,rumah,kerabat/keluarga,77,Tinggi,ZONA MERAH,2020
+Jawa Barat,Cirebon,13-17 tahun,perempuan,seksual,slta,sekolah,orang tua,97,Tinggi,ZONA MERAH,2020
+Jawa Barat,Garut,0-5 tahun,laki-laki,fisik,tidak sekolah,rumah,orang tua,111,Tinggi,ZONA MERAH,2020
+Jawa Barat,Tasikmalaya,6-12 tahun,laki-laki,seksual,sd,fasilitas umum,orang lain,161,Tinggi,ZONA MERAH,2020
+Jawa Barat,Ciamis,6-12 tahun,laki-laki,psikis,sd,rumah,orang tua,18,Rendah,ZONA HIJAU,2020
+Jawa Barat,Majalengka,13-17 tahun,perempuan,penelantaran,sltp,rumah,orang tua,20,Rendah,ZONA HIJAU,2020
+Jawa Barat,Sumedang,13-17 tahun,perempuan,seksual,tidak sekolah,rumah,kerabat/keluarga,51,Tinggi,ZONA MERAH,2020
+Jawa Barat,Kuningan,13-17 tahun,laki-laki,seksual,slta,rumah,kerabat/keluarga,77,Tinggi,ZONA MERAH,2020
+Jawa Barat,Indramayu,6-12 tahun,perempuan,fisik,sltp,rumah,kerabat/keluarga,32,Tinggi,ZONA MERAH,2020
+Jawa Barat,Cirebon,13-17 tahun,laki-laki,fisik,sd,sekolah,orang lain,97,Tinggi,ZONA MERAH,2020
+Jawa Barat,Subang,13-17 tahun,perempuan,psikis,tidak sekolah,rumah,kerabat/keluarga,104,Tinggi,ZONA MERAH,2020
+Jawa Barat,Purwakarta,13-17 tahun,perempuan,seksual,tidak sekolah,rumah,kerabat/keluarga,49,Tinggi,ZONA MERAH,2020
+Jawa Barat,Karawang,13-17 tahun,perempuan,penelantaran,slta,rumah,kerabat/keluarga,120,Tinggi,ZONA MERAH,2020
+Jawa Barat,Bekasi,13-17 tahun,perempuan,fisik,sltp,rumah,teman,288,Tinggi,ZONA MERAH,2020
+Jawa Barat,Majalengka,13-17 tahun,laki-laki,fisik,sltp,rumah,teman,16,Rendah,ZONA HIJAU,2020
+Jawa Barat,Sumedang,0-5 tahun,laki-laki,psikis,sltp,rumah,kerabat/keluarga,51,Tinggi,ZONA MERAH,2020
+Jawa Barat,Bandung Barat,13-17 tahun,perempuan,seksual,sltp,rumah,kerabat/keluarga,64,Tinggi,ZONA MERAH,2020
+Jawa Barat,Pangandaran,6-12 tahun,perempuan,seksual,tidak sekolah,rumah,kerabat/keluarga,26,Tinggi,ZONA MERAH,2020
+Jawa Barat,Indramayu,0-5 tahun,laki-laki,psikis,tidak sekolah,rumah,orang tua,32,Tinggi,ZONA MERAH,2020
+Jawa Barat,Subang,0-5 tahun,laki-laki,psikis,sltp,rumah,orang tua,104,Tinggi,ZONA MERAH,2020
+Jawa Barat,Purwakarta,13-17 tahun,laki-laki,fisik,tidak sekolah,rumah,orang tua,34,Tinggi,ZONA MERAH,2020
+Jawa Barat,Karawang,13-17 tahun,laki-laki,fisik,sd,rumah,orang tua,120,Tinggi,ZONA MERAH,2020
+Jawa Barat,Bekasi,13-17 tahun,laki-laki,seksual,sd,fasilitas umum,orang lain,289,Tinggi,ZONA MERAH,2020
+Jawa Barat,Kota Bogor,6-12 tahun,perempuan,seksual,tidak sekolah,rumah,kerabat/keluarga,102,Tinggi,ZONA MERAH,2020
+Jawa Barat,Kota Sukabumi,13-17 tahun,perempuan,psikis,slta,rumah,orang tua,85,Tinggi,ZONA MERAH,2020
+Jawa Barat,Kota Bandung,6-12 tahun,perempuan,seksual,slta,rumah,kerabat/keluarga,449,Tinggi,ZONA MERAH,2020
+Jawa Barat,Bandung Barat,13-17 tahun,laki-laki,fisik,sltp,rumah,kerabat/keluarga,64,Tinggi,ZONA MERAH,2020
+Jawa Barat,Pangandaran,6-12 tahun,laki-laki,seksual,tidak sekolah,rumah,kerabat/keluarga,26,Tinggi,ZONA MERAH,2020
+Jawa Barat,Kota Cirebon,6-12 tahun,perempuan,psikis,slta,rumah,orang tua,14,Rendah,ZONA HIJAU,2020
+Jawa Barat,Kota Bogor,6-12 tahun,laki-laki,psikis,sd,rumah,orang tua,102,Tinggi,ZONA MERAH,2020
+Jawa Barat,Kota Sukabumi,13-17 tahun,laki-laki,seksual,slta,rumah,kerabat/keluarga,85,Tinggi,ZONA MERAH,2020
+Jawa Barat,Kota Bandung,6-12 tahun,laki-laki,fisik,sd,rumah,teman,449,Tinggi,ZONA MERAH,2020
+Jawa Barat,Kota Bekasi,6-12 tahun,perempuan,psikis,sd,rumah,orang tua,14,Rendah,ZONA HIJAU,2020
+Jawa Barat,Kota Depok,13-17 tahun,perempuan,seksual,tidak sekolah,rumah,kerabat/keluarga,376,Tinggi,ZONA MERAH,2020
+Jawa Barat,Kota Cimahi,13-17 tahun,perempuan,fisik,slta,rumah,orang tua,28,Tinggi,ZONA MERAH,2020
+Jawa Barat,Kota Tasikmalaya,13-17 tahun,perempuan,fisik,tidak sekolah,rumah,orang tua,18,Rendah,ZONA HIJAU,2020
+Jawa Barat,Kota Banjar,13-17 tahun,perempuan,penelantaran,tidak sekolah,fasilitas umum,guru,7,Rendah,ZONA HIJAU,2020
+Jawa Barat,Kota Cirebon,6-12 tahun,laki-laki,fisik,sd,rumah,kerabat/keluarga,14,Rendah,ZONA HIJAU,2020
+Jawa Barat,Kota Bekasi,6-12 tahun,laki-laki,seksual,sd,rumah,kerabat/keluarga,14,Rendah,ZONA HIJAU,2020
+Jawa Barat,Kota Depok,6-12 tahun,laki-laki,psikis,sd,rumah,orang tua,367,Tinggi,ZONA MERAH,2020
+Jawa Barat,Kota Cimahi,13-17 tahun,laki-laki,seksual,sd,rumah,orang tua,28,Tinggi,ZONA MERAH,2020
+Jawa Barat,Kota Tasikmalaya,13-17 tahun,laki-laki,seksual,sltp,fasilitas umum,orang lain,18,Rendah,ZONA HIJAU,2020
+Jawa Barat,Kota Banjar,13-17 tahun,laki-laki,seksual,sd,rumah,kerabat/keluarga,9,Rendah,ZONA HIJAU,2020
+Jawa Barat,Bogor,6-12 tahun,laki-laki,penelantaran,tidak sekolah,rumah,orang tua,35,Tinggi,ZONA MERAH,2021
+Jawa Barat,Sukabumi,6-12 tahun,laki-laki,seksual,sd,sekolah,teman,170,Tinggi,ZONA MERAH,2021
+Jawa Barat,Cianjur,6-12 tahun,laki-laki,fisik,slta,rumah,orang tua,5,Rendah,ZONA HIJAU,2021
+Jawa Barat,Bogor,6-12 tahun,perempuan,penelantaran,tidak sekolah,rumah,orang tua,35,Tinggi,ZONA MERAH,2021
+Jawa Barat,Sukabumi,6-12 tahun,perempuan,penelantaran,sltp,rumah,orang tua,167,Tinggi,ZONA MERAH,2021
+Jawa Barat,Cianjur,0-5 tahun,perempuan,psikis,slta,rumah,orang tua,6,Rendah,ZONA HIJAU,2021
+Jawa Barat,Bandung,6-12 tahun,perempuan,penelantaran,slta,sekolah,guru,145,Tinggi,ZONA MERAH,2021
+Jawa Barat,Garut,13-17 tahun,perempuan,fisik,tidak sekolah,rumah,kerabat/keluarga,18,Rendah,ZONA HIJAU,2021
+Jawa Barat,Tasikmalaya,13-17 tahun,perempuan,seksual,sltp,rumah,kerabat/keluarga,74,Tinggi,ZONA MERAH,2021
+Jawa Barat,Bandung,6-12 tahun,laki-laki,seksual,sd,sekolah,kerabat/keluarga,145,Tinggi,ZONA MERAH,2021
+Jawa Barat,Ciamis,13-17 tahun,perempuan,seksual,tidak sekolah,fasilitas umum,teman,20,Rendah,ZONA HIJAU,2021
+Jawa Barat,Garut,0-5 tahun,laki-laki,fisik,sltp,rumah,orang tua,18,Rendah,ZONA HIJAU,2021
+Jawa Barat,Kuningan,13-17 tahun,perempuan,seksual,tidak sekolah,rumah,kerabat/keluarga,22,Tinggi,ZONA MERAH,2021
+Jawa Barat,Tasikmalaya,13-17 tahun,laki-laki,seksual,slta,rumah,kerabat/keluarga,74,Tinggi,ZONA MERAH,2021
+Jawa Barat,Cirebon,13-17 tahun,perempuan,seksual,slta,sekolah,orang lain,121,Tinggi,ZONA MERAH,2021
+Jawa Barat,Majalengka,13-17 tahun,perempuan,seksual,sltp,rumah,orang tua,24,Tinggi,ZONA MERAH,2021
+Jawa Barat,Sumedang,13-17 tahun,perempuan,penelantaran,tidak sekolah,rumah,kerabat/keluarga,25,Tinggi,ZONA MERAH,2021
+Jawa Barat,Indramayu,13-17 tahun,perempuan,fisik,sltp,rumah,kerabat/keluarga,46,Tinggi,ZONA MERAH,2021
+Jawa Barat,Subang,13-17 tahun,perempuan,psikis,sltp,rumah,kerabat/keluarga,16,Rendah,ZONA HIJAU,2021
+Jawa Barat,Ciamis,13-17 tahun,laki-laki,seksual,sltp,fasilitas umum,orang lain,20,Rendah,ZONA HIJAU,2021
+Jawa Barat,Kuningan,6-12 tahun,laki-laki,penelantaran,sltp,fasilitas umum,orang tua,22,Tinggi,ZONA MERAH,2021
+Jawa Barat,Purwakarta,13-17 tahun,perempuan,fisik,tidak sekolah,rumah,orang tua,36,Tinggi,ZONA MERAH,2021
+Jawa Barat,Cirebon,6-12 tahun,laki-laki,seksual,sd,sekolah,guru,122,Tinggi,ZONA MERAH,2021
+Jawa Barat,Majalengka,6-12 tahun,laki-laki,seksual,sd,rumah,kerabat/keluarga,24,Tinggi,ZONA MERAH,2021
+Jawa Barat,Sumedang,13-17 tahun,laki-laki,seksual,tidak sekolah,rumah,kerabat/keluarga,25,Tinggi,ZONA MERAH,2021
+Jawa Barat,Karawang,13-17 tahun,perempuan,penelantaran,slta,rumah,orang tua,27,Tinggi,ZONA MERAH,2021
+Jawa Barat,Bekasi,13-17 tahun,perempuan,penelantaran,slta,rumah,orang tua,203,Tinggi,ZONA MERAH,2021
+Jawa Barat,Bandung Barat,6-12 tahun,perempuan,fisik,sd,rumah,kerabat/keluarga,51,Tinggi,ZONA MERAH,2021
+Jawa Barat,Pangandaran,13-17 tahun,perempuan,psikis,sd,rumah,orang tua,40,Tinggi,ZONA MERAH,2021
+Jawa Barat,Indramayu,6-12 tahun,laki-laki,fisik,sd,rumah,kerabat/keluarga,46,Tinggi,ZONA MERAH,2021
+Jawa Barat,Kota Bogor,13-17 tahun,perempuan,fisik,sd,rumah,kerabat/keluarga,60,Tinggi,ZONA MERAH,2021
+Jawa Barat,Subang,13-17 tahun,laki-laki,psikis,sltp,rumah,orang tua,16,Rendah,ZONA HIJAU,2021
+Jawa Barat,Purwakarta,6-12 tahun,laki-laki,psikis,tidak sekolah,rumah,orang tua,36,Tinggi,ZONA MERAH,2021
+Jawa Barat,Karawang,0-5 tahun,laki-laki,seksual,tidak sekolah,rumah,kerabat/keluarga,27,Tinggi,ZONA MERAH,2021
+Jawa Barat,Kota Sukabumi,6-12 tahun,perempuan,penelantaran,slta,rumah,orang tua,41,Tinggi,ZONA MERAH,2021
+Jawa Barat,Kota Bandung,13-17 tahun,perempuan,psikis,sd,rumah,orang tua,268,Tinggi,ZONA MERAH,2021
+Jawa Barat,Bekasi,13-17 tahun,laki-laki,fisik,sltp,sekolah,teman,208,Tinggi,ZONA MERAH,2021
+Jawa Barat,Bandung Barat,6-12 tahun,laki-laki,seksual,tidak sekolah,rumah,kerabat/keluarga,51,Tinggi,ZONA MERAH,2021
+Jawa Barat,Pangandaran,6-12 tahun,laki-laki,fisik,tidak sekolah,sekolah,guru,40,Tinggi,ZONA MERAH,2021
+Jawa Barat,Kota Cirebon,13-17 tahun,perempuan,seksual,slta,rumah,orang tua,29,Tinggi,ZONA MERAH,2021
+Jawa Barat,Kota Bogor,13-17 tahun,laki-laki,fisik,sltp,rumah,kerabat/keluarga,61,Tinggi,ZONA MERAH,2021
+Jawa Barat,Kota Sukabumi,6-12 tahun,laki-laki,fisik,sd,fasilitas umum,orang lain,41,Tinggi,ZONA MERAH,2021
+Jawa Barat,Kota Bekasi,6-12 tahun,perempuan,seksual,sd,fasilitas umum,orang lain,97,Tinggi,ZONA MERAH,2021
+Jawa Barat,Kota Depok,6-12 tahun,perempuan,fisik,slta,sekolah,teman,141,Tinggi,ZONA MERAH,2021
+Jawa Barat,Kota Cimahi,6-12 tahun,perempuan,penelantaran,slta,sekolah,teman,22,Tinggi,ZONA MERAH,2021
+Jawa Barat,Kota Bandung,6-12 tahun,laki-laki,psikis,sltp,rumah,orang tua,268,Tinggi,ZONA MERAH,2021
+Jawa Barat,Kota Cirebon,0-5 tahun,laki-laki,penelantaran,sd,rumah,kerabat/keluarga,29,Tinggi,ZONA MERAH,2021
+Jawa Barat,Kota Bekasi,6-12 tahun,laki-laki,seksual,sd,fasilitas umum,orang lain,97,Tinggi,ZONA MERAH,2021
+Jawa Barat,Kota Tasikmalaya,13-17 tahun,perempuan,psikis,tidak sekolah,rumah,kerabat/keluarga,8,Rendah,ZONA HIJAU,2021
+Jawa Barat,Kota Banjar,13-17 tahun,perempuan,fisik,tidak sekolah,rumah,kerabat/keluarga,25,Tinggi,ZONA MERAH,2021
+Jawa Barat,Kota Depok,6-12 tahun,laki-laki,psikis,sd,rumah,orang tua,144,Tinggi,ZONA MERAH,2021
+Jawa Barat,Kota Cimahi,0-5 tahun,laki-laki,psikis,slta,rumah,kerabat/keluarga,22,Tinggi,ZONA MERAH,2021
+Jawa Barat,Kota Tasikmalaya,0-5 tahun,laki-laki,seksual,tidak sekolah,rumah,orang tua,8,Rendah,ZONA HIJAU,2021
+Jawa Barat,Kota Banjar,13-17 tahun,perempuan,psikis,tidak sekolah,rumah,kerabat/keluarga,25,Tinggi,ZONA MERAH,2021
+Jawa Barat,Bogor,13-17 tahun,perempuan,seksual,slta,rumah,kerabat/keluarga,40,Tinggi,ZONA MERAH,2022
+Jawa Barat,Sukabumi,13-17 tahun,perempuan,seksual,sltp,rumah,kerabat/keluarga,139,Tinggi,ZONA MERAH,2022
+Jawa Barat,Cianjur,13-17 tahun,perempuan,seksual,tidak sekolah,sekolah,orang tua,68,Tinggi,ZONA MERAH,2022
+Jawa Barat,Bandung,13-17 tahun,perempuan,seksual,slta,rumah,orang tua,169,Tinggi,ZONA MERAH,2022
+Jawa Barat,Garut,13-17 tahun,perempuan,seksual,slta,rumah,kerabat/keluarga,20,Rendah,ZONA HIJAU,2022
+Jawa Barat,Bogor,6-12 tahun,laki-laki,penelantaran,tidak sekolah,sekolah,guru,40,Tinggi,ZONA MERAH,2022
+Jawa Barat,Sukabumi,13-17 tahun,laki-laki,seksual,sd,fasilitas umum,orang lain,149,Tinggi,ZONA MERAH,2022
+Jawa Barat,Cianjur,13-17 tahun,laki-laki,seksual,sd,fasilitas umum,orang lain,70,Tinggi,ZONA MERAH,2022
+Jawa Barat,Tasikmalaya,13-17 tahun,perempuan,seksual,sltp,rumah,orang lain,133,Tinggi,ZONA MERAH,2022
+Jawa Barat,Ciamis,13-17 tahun,perempuan,seksual,sltp,rumah,orang tua,11,Rendah,ZONA HIJAU,2022
+Jawa Barat,Bandung,6-12 tahun,laki-laki,seksual,sd,rumah,kerabat/keluarga,169,Tinggi,ZONA MERAH,2022
+Jawa Barat,Kuningan,13-17 tahun,perempuan,seksual,sltp,rumah,kerabat/keluarga,38,Tinggi,ZONA MERAH,2022
+Jawa Barat,Cirebon,13-17 tahun,perempuan,seksual,sltp,fasilitas umum,orang tua,95,Tinggi,ZONA MERAH,2022
+Jawa Barat,Majalengka,13-17 tahun,perempuan,seksual,tidak sekolah,rumah,kerabat/keluarga,10,Rendah,ZONA HIJAU,2022
+Jawa Barat,Garut,6-12 tahun,laki-laki,psikis,slta,rumah,kerabat/keluarga,20,Rendah,ZONA HIJAU,2022
+Jawa Barat,Tasikmalaya,13-17 tahun,laki-laki,fisik,sd,rumah,kerabat/keluarga,130,Tinggi,ZONA MERAH,2022
+Jawa Barat,Sumedang,13-17 tahun,perempuan,seksual,tidak sekolah,rumah,orang tua,18,Rendah,ZONA HIJAU,2022
+Jawa Barat,Ciamis,13-17 tahun,laki-laki,fisik,slta,rumah,orang tua,11,Rendah,ZONA HIJAU,2022
+Jawa Barat,Indramayu,13-17 tahun,perempuan,seksual,slta,rumah,orang lain,39,Tinggi,ZONA MERAH,2022
+Jawa Barat,Subang,13-17 tahun,perempuan,seksual,sltp,rumah,kerabat/keluarga,13,Rendah,ZONA HIJAU,2022
+Jawa Barat,Purwakarta,13-17 tahun,perempuan,seksual,tidak sekolah,rumah,orang tua,53,Tinggi,ZONA MERAH,2022
+Jawa Barat,Kuningan,6-12 tahun,laki-laki,penelantaran,tidak sekolah,rumah,kerabat/keluarga,38,Tinggi,ZONA MERAH,2022
+Jawa Barat,Cirebon,6-12 tahun,laki-laki,seksual,sd,fasilitas umum,kerabat/keluarga,95,Tinggi,ZONA MERAH,2022
+Jawa Barat,Majalengka,13-17 tahun,laki-laki,fisik,sltp,rumah,teman,8,Rendah,ZONA HIJAU,2022
+Jawa Barat,Sumedang,13-17 tahun,laki-laki,fisik,tidak sekolah,rumah,orang tua,18,Rendah,ZONA MERAH,2022
+Jawa Barat,Karawang,13-17 tahun,perempuan,seksual,slta,rumah,kerabat/keluarga,115,Tinggi,ZONA MERAH,2022
+Jawa Barat,Bekasi,13-17 tahun,perempuan,seksual,slta,rumah,kerabat/keluarga,176,Tinggi,ZONA MERAH,2022
+Jawa Barat,Indramayu,6-12 tahun,laki-laki,seksual,sd,rumah,orang tua,39,Tinggi,ZONA MERAH,2022
+Jawa Barat,Bandung Barat,13-17 tahun,perempuan,seksual,slta,rumah,kerabat/keluarga,52,Tinggi,ZONA MERAH,2022
+Jawa Barat,Pangandaran,13-17 tahun,perempuan,seksual,sltp,rumah,orang tua,24,Tinggi,ZONA MERAH,2022
+Jawa Barat,Kota Bogor,13-17 tahun,perempuan,seksual,slta,rumah,orang tua,120,Tinggi,ZONA MERAH,2022
+Jawa Barat,Subang,13-17 tahun,laki-laki,psikis,sd,rumah,teman,13,Rendah,ZONA HIJAU,2022
+Jawa Barat,Purwakarta,13-17 tahun,laki-laki,seksual,tidak sekolah,rumah,kerabat/keluarga,53,Tinggi,ZONA MERAH,2022
+Jawa Barat,Karawang,13-17 tahun,laki-laki,seksual,slta,rumah,orang tua,115,Tinggi,ZONA MERAH,2022
+Jawa Barat,Bekasi,6-12 tahun,laki-laki,penelantaran,sd,rumah,kerabat/keluarga,176,Tinggi,ZONA MERAH,2022
+Jawa Barat,Kota Sukabumi,13-17 tahun,perempuan,seksual,slta,rumah,kerabat/keluarga,45,Tinggi,ZONA MERAH,2022
+Jawa Barat,Kota Bandung,13-17 tahun,perempuan,seksual,slta,rumah,orang tua,423,Tinggi,ZONA MERAH,2022
+Jawa Barat,Bandung Barat,6-12 tahun,laki-laki,seksual,sd,rumah,orang tua,52,Tinggi,ZONA MERAH,2022
+Jawa Barat,Pangandaran,0-5 tahun,laki-laki,psikis,sltp,sekolah,teman,24,Tinggi,ZONA MERAH,2022
+Jawa Barat,Kota Cirebon,6-12 tahun,perempuan,seksual,slta,rumah,orang tua,5,Rendah,ZONA HIJAU,2022
+Jawa Barat,Kota Bogor,6-12 tahun,laki-laki,fisik,sd,rumah,kerabat/keluarga,120,Tinggi,ZONA MERAH,2022
+Jawa Barat,Kota Sukabumi,6-12 tahun,laki-laki,penelantaran,sd,rumah,orang tua,45,Tinggi,ZONA MERAH,2022
+Jawa Barat,Kota Bandung,13-17 tahun,laki-laki,psikis,sd,rumah,orang tua,423,Tinggi,ZONA MERAH,2022
+Jawa Barat,Kota Bekasi,6-12 tahun,perempuan,seksual,sltp,rumah,kerabat/keluarga,7,Rendah,ZONA HIJAU,2022
+Jawa Barat,Kota Depok,13-17 tahun,perempuan,seksual,slta,rumah,kerabat/keluarga,150,Tinggi,ZONA MERAH,2022
+Jawa Barat,Kota Bandung,13-17 tahun,laki-laki,psikis,sd,rumah,orang tua,432,Tinggi,ZONA MERAH,2022
+Jawa Barat,Kota Cirebon,6-12 tahun,laki-laki,penelantaran,sltp,rumah,orang tua,7,Rendah,ZONA HIJAU,2022
+Jawa Barat,Kota Bekasi,0-5 tahun,laki-laki,seksual,sd,rumah,kerabat/keluarga,7,Rendah,ZONA HIJAU,2022
+Jawa Barat,Kota Depok,6-12 tahun,laki-laki,fisik,sd,rumah,teman,150,Tinggi,ZONA MERAH,2022
+Jawa Barat,Kota Cimahi,6-12 tahun,perempuan,seksual,tidak sekolah,rumah,kerabat/keluarga,41,Tinggi,ZONA MERAH,2022
+Jawa Barat,Kota Tasikmalaya,6-12 tahun,perempuan,seksual,sltp,rumah,kerabat/keluarga,3,Rendah,ZONA HIJAU,2022
+Jawa Barat,Kota Banjar,13-17 tahun,perempuan,penelantaran,tidak sekolah,rumah,orang tua,1,Rendah,ZONA HIJAU,2022
+Jawa Barat,Kota Cimahi,13-17 tahun,laki-laki,seksual,sd,rumah,kerabat/keluarga,41,Tinggi,ZONA MERAH,2022
+Jawa Barat,Kota Tasikmalaya,0-5 tahun,laki-laki,fisik,sd,rumah,kerabat/keluarga,3,Rendah,ZONA HIJAU,2022
+Jawa Barat,Kota Banjar,0-5 tahun,laki-laki,penelantaran,sltp,rumah,orang tua,1,Rendah,ZONA HIJAU,2022
+Jawa Barat,Bogor,13-17 tahun,perempuan,fisik,sltp,sekolah,teman,217,Tinggi,ZONA MERAH,2023
+Jawa Barat,Bogor,0-5 tahun,laki-laki,psikis,sd,sekolah,guru,219,Tinggi,ZONA MERAH,2023
+Jawa Barat,Sukabumi,6-12 tahun,laki-laki,seksual,slta,rumah,orang tua,133,Tinggi,ZONA MERAH,2023
+Jawa Barat,Cianjur,6-12 tahun,laki-laki,seksual,sd,sekolah,guru,108,Tinggi,ZONA MERAH,2023
+Jawa Barat,Sukabumi,13-17 tahun,perempuan,fisik,sd,rumah,orang tua,133,Tinggi,ZONA MERAH,2023
+Jawa Barat,Bandung,6-12 tahun,laki-laki,penelantaran,sltp,rumah,orang tua,100,Tinggi,ZONA MERAH,2023
+Jawa Barat,Garut,0-5 tahun,laki-laki,fisik,slta,rumah,kerabat/keluarga,151,Tinggi,ZONA MERAH,2023
+Jawa Barat,Cianjur,6-12 tahun,perempuan,seksual,sltp,sekolah,guru,108,Tinggi,ZONA MERAH,2023
+Jawa Barat,Bandung,13-17 tahun,perempuan,seksual,sd,rumah,orang tua,113,Tinggi,ZONA MERAH,2023
+Jawa Barat,Garut,13-17 tahun,perempuan,seksual,sltp,rumah,kerabat/keluarga,155,Tinggi,ZONA MERAH,2023
+Jawa Barat,Tasikmalaya,13-17 tahun,perempuan,seksual,sd,fasilitas umum,orang lain,18,Rendah,ZONA HIJAU,2023
+Jawa Barat,Ciamis,6-12 tahun,perempuan,seksual,sd,fasilitas umum,orang lain,77,Tinggi,ZONA MERAH,2023
+Jawa Barat,Tasikmalaya,0-5 tahun,laki-laki,seksual,sltp,sekolah,guru,18,Rendah,ZONA HIJAU,2023
+Jawa Barat,Kuningan,13-17 tahun,perempuan,seksual,tidak sekolah,fasilitas umum,orang lain,97,Tinggi,ZONA MERAH,2023
+Jawa Barat,Cirebon,13-17 tahun,perempuan,seksual,sd,rumah,kerabat/keluarga,16,Rendah,ZONA HIJAU,2023
+Jawa Barat,Ciamis,6-12 tahun,laki-laki,psikis,sltp,rumah,kerabat/keluarga,79,Tinggi,ZONA MERAH,2023
+Jawa Barat,Kuningan,13-17 tahun,laki-laki,seksual,sd,rumah,orang tua,97,Tinggi,ZONA MERAH,2023
+Jawa Barat,Cirebon,6-12 tahun,laki-laki,fisik,sd,rumah,kerabat/keluarga,16,Rendah,ZONA HIJAU,2023
+Jawa Barat,Majalengka,0-5 tahun,laki-laki,fisik,tidak sekolah,rumah,orang tua,51,Tinggi,ZONA MERAH,2023
+Jawa Barat,Majalengka,13-17 tahun,perempuan,seksual,sd,rumah,kerabat/keluarga,55,Tinggi,ZONA MERAH,2023
+Jawa Barat,Sumedang,6-12 tahun,perempuan,penelantaran,tidak sekolah,rumah,orang tua,32,Tinggi,ZONA MERAH,2023
+Jawa Barat,Indramayu,13-17 tahun,perempuan,seksual,sd,rumah,kerabat/keluarga,104,Tinggi,ZONA MERAH,2023
+Jawa Barat,Subang,13-17 tahun,perempuan,fisik,slta,rumah,kerabat/keluarga,34,Tinggi,ZONA MERAH,2023
+Jawa Barat,Purwakarta,13-17 tahun,perempuan,penelantaran,slta,rumah,kerabat/keluarga,120,Tinggi,ZONA MERAH,2023
+Jawa Barat,Karawang,13-17 tahun,perempuan,fisik,sd,rumah,orang tua,288,Tinggi,ZONA MERAH,2023
+Jawa Barat,Sumedang,0-5 tahun,laki-laki,psikis,sd,rumah,orang tua,32,Tinggi,ZONA MERAH,2023
+Jawa Barat,Indramayu,0-5 tahun,laki-laki,psikis,sltp,rumah,orang tua,104,Tinggi,ZONA MERAH,2023
+Jawa Barat,Bekasi,13-17 tahun,perempuan,penelantaran,tidak sekolah,rumah,orang tua,64,Tinggi,ZONA MERAH,2023
+Jawa Barat,Subang,6-12 tahun,laki-laki,psikis,tidak sekolah,rumah,kerabat/keluarga,34,Tinggi,ZONA MERAH,2023
+Jawa Barat,Purwakarta,0-5 tahun,laki-laki,fisik,tidak sekolah,rumah,kerabat/keluarga,120,Tinggi,ZONA MERAH,2023
+Jawa Barat,Karawang,13-17 tahun,laki-laki,fisik,sltp,rumah,kerabat/keluarga,299,Tinggi,ZONA MERAH,2023
+Jawa Barat,Bandung Barat,6-12 tahun,perempuan,seksual,sltp,fasilitas umum,orang lain,26,Tinggi,ZONA MERAH,2023
+Jawa Barat,Pangandaran,6-12 tahun,perempuan,seksual,sltp,rumah,orang tua,102,Tinggi,ZONA MERAH,2023
+Jawa Barat,Bekasi,13-17 tahun,laki-laki,seksual,tidak sekolah,rumah,kerabat/keluarga,64,Tinggi,ZONA MERAH,2023
+Jawa Barat,Kota Bogor,13-17 tahun,perempuan,psikis,sd,rumah,kerabat/keluarga,85,Tinggi,ZONA MERAH,2023
+Jawa Barat,Kota Sukabumi,13-17 tahun,perempuan,seksual,sltp,rumah,orang tua,449,Tinggi,ZONA MERAH,2023
+Jawa Barat,Bandung Barat,6-12 tahun,laki-laki,fisik,tidak sekolah,fasilitas umum,orang lain,26,Tinggi,ZONA MERAH,2023
+Jawa Barat,Pangandaran,13-17 tahun,laki-laki,seksual,sd,rumah,teman,102,Tinggi,ZONA HIJAU,2023
+Jawa Barat,Kota Bogor,13-17 tahun,laki-laki,psikis,sd,rumah,orang lain,85,Tinggi,ZONA MERAH,2023
+Jawa Barat,Kota Bandung,13-17 tahun,perempuan,psikis,sd,rumah,orang tua,15,Rendah,ZONA HIJAU,2023
+Jawa Barat,Kota Cirebon,6-12 tahun,perempuan,psikis,sd,rumah,kerabat/keluarga,19,Rendah,ZONA HIJAU,2023
+Jawa Barat,Kota Sukabumi,6-12 tahun,laki-laki,penelantaran,sd,rumah,kerabat/keluarga,449,Tinggi,ZONA MERAH,2023
+Jawa Barat,Kota Bandung,6-12 tahun,laki-laki,psikis,sd,rumah,orang tua,16,Rendah,ZONA HIJAU,2023
+Jawa Barat,Kota Cirebon,13-17 tahun,laki-laki,seksual,sd,rumah,orang tua,17,Rendah,ZONA HIJAU,2023
+Jawa Barat,Kota Bekasi,13-17 tahun,laki-laki,fisik,sltp,rumah,teman,376,Tinggi,ZONA MERAH,2023
+Jawa Barat,Kota Bekasi,6-12 tahun,perempuan,seksual,tidak sekolah,rumah,kerabat/keluarga,379,Tinggi,ZONA MERAH,2023
+Jawa Barat,Kota Depok,13-17 tahun,perempuan,fisik,tidak sekolah,rumah,kerabat/keluarga,28,Tinggi,ZONA MERAH,2023
+Jawa Barat,Kota Cimahi,0-5 tahun,perempuan,fisik,sd,rumah,orang tua,18,Rendah,ZONA HIJAU,2023
+Jawa Barat,Kota Tasikmalaya,0-5 tahun,perempuan,penelantaran,tidak sekolah,rumah,kerabat/keluarga,7,Rendah,ZONA HIJAU,2023
+Jawa Barat,Kota Depok,6-12 tahun,laki-laki,fisik,sltp,rumah,orang tua,28,Tinggi,ZONA MERAH,2023
+Jawa Barat,Kota Cimahi,6-12 tahun,laki-laki,fisik,sltp,rumah,kerabat/keluarga,20,Rendah,ZONA HIJAU,2023
+Jawa Barat,Kota Tasikmalaya,0-5 tahun,laki-laki,psikis,sltp,rumah,kerabat/keluarga,10,Rendah,ZONA HIJAU,2023
+Jawa Barat,Kota Banjar,0-5 tahun,laki-laki,penelantaran,sltp,rumah,orang tua,3,Rendah,ZONA HIJAU,2023
+Jawa Barat,Kota Banjar,0-5 tahun,perempuan,penelantaran,sltp,rumah,orang tua,7,Rendah,ZONA HIJAU,2023
