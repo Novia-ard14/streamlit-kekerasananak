@@ -4,6 +4,8 @@ pytz==2024.1
 dateutil==2.9.0.post0
 setuptools==69.5.1
 pytest==7.4.4
+Cython==None
+hypothesis==None
 streamlit
 scikit-learn
 pip==24.0
